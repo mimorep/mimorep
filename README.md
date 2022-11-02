@@ -1,4 +1,4 @@
-# Miguel Moreno Pastor AKA M7
+# Miguel Moreno Pastor == M7
 
 **Software engineer** with two specializations:
 
