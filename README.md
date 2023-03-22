@@ -36,6 +36,8 @@
 
 ## How to reach me
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/miguel-moreno-pastor)
+
 ## GitHub Stats
 
 <div class="row">
