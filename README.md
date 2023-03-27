@@ -28,7 +28,7 @@
 
 ## Repos of interest
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimorep&repo=iTunesBridge)](https://github.com/mimorep/iTunesBridge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimorep&repo=FeelTheM7)](https://github.com/mimorep/FeelTheM7)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimorep&repo=HowMuchIKnowFromYou)](https://github.com/mimorep/HowMuchIKnowFromYou)
 
