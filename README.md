@@ -22,8 +22,10 @@
 ## Experience
 
 - Computer forensics and Incident response
+- Reversing
+- Exploit development
+- Binary patching
 - SAP cybersecurity developer
-- SAP developer
 - Workshop instructor
 
 ## Repos of interest
