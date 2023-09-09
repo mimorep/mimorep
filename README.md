@@ -36,10 +36,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimorep&repo=SAP-Payment-Infrastructure)](https://github.com/mimorep/SAP-Payment-Infrastructure)
 
-## How to reach me
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/miguel-moreno-pastor)
-
 ## GitHub Stats
 
 <div class="row">
